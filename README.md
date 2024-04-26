@@ -1,4 +1,4 @@
-# digitEye
+# Image Recognition with Teachable Machine
 
 The scope of this project is to prototype an app that can identify a digit and evaluate it against
 a desired digit.
