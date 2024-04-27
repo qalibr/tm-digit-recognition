@@ -10,7 +10,7 @@ function WebcamModel() {
     // Initialize webcam and model
     async function init() {
       // URLs for model and metadata
-      const baseURL = "https://teachablemachine.withgoogle.com/models/sKWVzb-8A/";
+      const baseURL = "https://teachablemachine.withgoogle.com/models/HxG987GQU/";
       const modelURL = baseURL + "model.json";
       const metadataURL = baseURL + "metadata.json";
 
