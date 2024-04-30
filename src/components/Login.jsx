@@ -1,4 +1,4 @@
-import supabase from "./supabaseClient.jsx";
+import supabase from "../supabaseClient.jsx";
 import useAuth from "./useAuth.jsx";
 
 function Login() {

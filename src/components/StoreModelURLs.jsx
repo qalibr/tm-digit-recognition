@@ -1,5 +1,5 @@
 import {useState} from "react";
-import supabase from "./supabaseClient.jsx";
+import supabase from "../supabaseClient.jsx";
 import useAuth from "./useAuth.jsx";
 
 function StoreModelURLs() {
