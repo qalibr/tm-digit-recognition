@@ -7,7 +7,10 @@ function App() {
   const modelVariants = [
     {id: "default", path: "default", description: "Default Model"},
     {id: "2x-epoch", path: "2x-epoch", description: "Model trained for 2x epochs"},
-    {id: "3x-epoch", path: "3x-epoch", description: "Model trained for 3x epochs"}
+    {id: "3x-epoch", path: "3x-epoch", description: "Model trained for 3x epochs"},
+    {id: "3x-epoch_2x-batchsize", path: "3x-epoch_2x-batchsize", description: "Model trained for 3x epochs and 2x batch size"},
+    {id: "3x-epoch_8x-batchsize", path: "3x-epoch_8x-batchsize", description: "Model trained for 3x epochs and 8x batch size"},
+    {id: "6x-epoch", path: "6x-epoch", description: "Model trained for 6x epochs"},
   ];
 
   // State variable, set to default initially.
